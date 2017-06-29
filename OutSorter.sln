@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutSorter", "OutSorter\OutSorter.csproj", "{8EE799B1-EF18-4A2A-8951-79F1427C482C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutSorter.Tests", "OutSorter.Tests\OutSorter.Tests.csproj", "{8DF077EF-F209-497A-B036-F21E685B97A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE799B1-EF18-4A2A-8951-79F1427C482C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE799B1-EF18-4A2A-8951-79F1427C482C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE799B1-EF18-4A2A-8951-79F1427C482C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE799B1-EF18-4A2A-8951-79F1427C482C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF077EF-F209-497A-B036-F21E685B97A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF077EF-F209-497A-B036-F21E685B97A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF077EF-F209-497A-B036-F21E685B97A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF077EF-F209-497A-B036-F21E685B97A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://donaldmafa.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OutSorter\\OutSorter.csproj
+		SccProjectName1 = OutSorter
+		SccLocalPath1 = OutSorter
+		SccProjectUniqueName2 = OutSorter.Tests\\OutSorter.Tests.csproj
+		SccProjectName2 = OutSorter.Tests
+		SccLocalPath2 = OutSorter.Tests
+	EndGlobalSection
+EndGlobal
